@@ -19,5 +19,8 @@ li:nth-child(101) {
 li:nth-child(102) {
   color: red;
 }
+li:nth-child(102) {
+  color: red;
+}
 
 /*# sourceMappingURL=each.css.map */
